@@ -1,0 +1,18 @@
+[
+    "say *text*",
+    "toonce *media*",
+    "smeme *image & text*",
+    "qc *text*",
+    "qcimg *text*",
+    "smeta *reply sticker*",
+    "sticker *reply image/video*",
+    "toimg *reply sticker*",
+    "toptv *reply video*",
+    "tomp4 *reply sticker*",
+    "toaudio *reply video*",
+    "tomp3 *reply video*",
+    "togif *reply video*",
+    "toqr *link or text*",
+    "tovn *reply audio*",
+    "remini *reply gambar*"
+]

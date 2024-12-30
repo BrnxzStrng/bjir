@@ -1,0 +1,10 @@
+[
+    "jadibot *waktu*",
+    "stop *mematikan*",
+    "start *memulai*",
+    "listjadibot",
+    "delsession",
+    "clearsession",
+    "getsession",
+    "carajadibot"
+]

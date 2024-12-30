@@ -1,0 +1,18 @@
+[
+    "sound 1-161",
+    "addvn *audio*",
+    "listvn *audio*",
+    "delvn *audio*",
+    "bass *reply audio*",
+    "deep *reply audio*",
+    "slow *reply audio*",
+    "blown",
+    "smooth",
+    "earrape",
+    "fast",
+    "fat",
+    "reverse",
+    "nightcore",
+    "robot",
+    "squirrel"
+]

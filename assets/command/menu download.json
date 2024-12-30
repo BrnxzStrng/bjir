@@ -1,0 +1,23 @@
+[
+    "ytsearch *title*",
+    "ytreels *link*",
+    "getmusic *reply yts*",
+    "getvideo *reply yts*",
+    "ytvideo *title video*",
+    "ytmp3 *link youtube*",
+    "ytmp4 *link youtube*",
+    "ytdok *link youtube*",
+    "ytvn *link youtube*",
+    "ytvideo *link youtube*",
+    "tiktok *link tiktok*",
+    "ttslide *link tiktok*",
+    "capcutdl *link*",
+    "megadl *link*",
+    "fbdl *link*",
+    "spotifydl *link*",
+    "igdl *link*",
+    "gitclone *link*",
+    "mediafire *link*",
+    "happymod *game name*",
+    "gdrive *link*"
+]
